@@ -1,0 +1,15 @@
+/Users/maelropars/dotnet_saga/bin/Debug/net7.0/dotnet_saga
+/Users/maelropars/dotnet_saga/bin/Debug/net7.0/dotnet_saga.deps.json
+/Users/maelropars/dotnet_saga/bin/Debug/net7.0/dotnet_saga.runtimeconfig.json
+/Users/maelropars/dotnet_saga/bin/Debug/net7.0/dotnet_saga.dll
+/Users/maelropars/dotnet_saga/bin/Debug/net7.0/dotnet_saga.pdb
+/Users/maelropars/dotnet_saga/obj/Debug/net7.0/dotnet_saga.csproj.AssemblyReference.cache
+/Users/maelropars/dotnet_saga/obj/Debug/net7.0/dotnet_saga.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maelropars/dotnet_saga/obj/Debug/net7.0/dotnet_saga.AssemblyInfoInputs.cache
+/Users/maelropars/dotnet_saga/obj/Debug/net7.0/dotnet_saga.AssemblyInfo.cs
+/Users/maelropars/dotnet_saga/obj/Debug/net7.0/dotnet_saga.csproj.CoreCompileInputs.cache
+/Users/maelropars/dotnet_saga/obj/Debug/net7.0/dotnet_saga.dll
+/Users/maelropars/dotnet_saga/obj/Debug/net7.0/refint/dotnet_saga.dll
+/Users/maelropars/dotnet_saga/obj/Debug/net7.0/dotnet_saga.pdb
+/Users/maelropars/dotnet_saga/obj/Debug/net7.0/dotnet_saga.genruntimeconfig.cache
+/Users/maelropars/dotnet_saga/obj/Debug/net7.0/ref/dotnet_saga.dll

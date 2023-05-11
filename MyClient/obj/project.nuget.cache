@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "pjBCI9sfSgxMP4pmNgqrMD4LggOVBD31oCxgs37nfhf+SjlV8ahkSEcGmi2WjO7yRaeX+zar5QQYmD2hLKY+zg==",
+  "success": true,
+  "projectFilePath": "/Users/maelropars/dotnet_saga/MyClient/MyClient.csproj",
+  "expectedPackageFiles": [
+    "/Users/maelropars/.nuget/packages/castle.core/5.1.0/castle.core.5.1.0.nupkg.sha512",
+    "/Users/maelropars/.nuget/packages/google.protobuf/3.21.9/google.protobuf.3.21.9.nupkg.sha512",
+    "/Users/maelropars/.nuget/packages/microsoft.extensions.logging.abstractions/2.2.0/microsoft.extensions.logging.abstractions.2.2.0.nupkg.sha512",
+    "/Users/maelropars/.nuget/packages/system.diagnostics.eventlog/6.0.0/system.diagnostics.eventlog.6.0.0.nupkg.sha512",
+    "/Users/maelropars/.nuget/packages/temporalio/0.1.0-alpha4/temporalio.0.1.0-alpha4.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyClient", "MyClient\MyClient.csproj", "{BDE017D9-CF61-4DFE-A557-993B1E1BB333}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetSaga", "DotNetSaga\DotNetSaga.csproj", "{24ADFB08-FF41-4E33-84AF-91409D04E99F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDE017D9-CF61-4DFE-A557-993B1E1BB333}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDE017D9-CF61-4DFE-A557-993B1E1BB333}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDE017D9-CF61-4DFE-A557-993B1E1BB333}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDE017D9-CF61-4DFE-A557-993B1E1BB333}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24ADFB08-FF41-4E33-84AF-91409D04E99F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24ADFB08-FF41-4E33-84AF-91409D04E99F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24ADFB08-FF41-4E33-84AF-91409D04E99F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24ADFB08-FF41-4E33-84AF-91409D04E99F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
